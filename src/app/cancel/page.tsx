@@ -7,7 +7,7 @@ export default function CancelPage() {
         <div className={styles.failureIcon}>✕</div>
         <h1 className={styles.title}>Payment Failed</h1>
         <p className={styles.subtitle}>
-          We couldn't process your payment. Please try again or use a different
+          We couldnt process your payment. Please try again or use a different
           payment method.
         </p>
 
